@@ -1,0 +1,3 @@
+This problem comes from the daily measures of sensors in an urban waste water treatment plant. The objective is to classify the operation state of the plant at each of the stages of the treatment process.
+
+The plant is constituted by a primary settler, a biological reactor, and a secondary settler. After the biological reactor, where the level of substrate is reduced by the action of microorganisms, the water flows to the secondary settler where the biomass sludge settles. Clean water hence remains at the top of the settler and can be easily carried out of the plant. A portion of the sludge is returned to the bioreactor’s input to maintain an appropriate level of biomass, allowing the oxidation of organic matter, while the rest of the sludge is purged.
